@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<SharkDbConfiguration>
+	<users>
+		<user>
+			<name>root</name>
+			<password>password</password>
+		</user>
+	</users>
+	<servers>
+		<server name="RootShark">
+			<engine>MySQL</engine>
+			<server>localhost</server>
+			<port></port>
+			<database>mysql</database>
+		</server>
+	</servers>
+</SharkDbConfiguration>
